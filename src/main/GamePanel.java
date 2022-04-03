@@ -57,8 +57,15 @@ public class GamePanel extends JPanel {
                 mouseInputs.setStateMethod(game.getMenu());
                 keyboardInputs.setStateMethod(game.getMenu());
                 break;
+            case OPTIONS:
+
+            case QUIT:
+
+                break;
 
 
         }
     }
 }
+//HOW TO CREATE a MENU - Episode #12
+//24:12
